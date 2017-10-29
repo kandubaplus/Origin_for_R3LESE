@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named posix - imported by os, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named _posixsubprocess - imported by subprocess, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named org - imported by pickle, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named readline - imported by cmd, code, pdb, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named _winreg - imported by platform, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named 'java.lang' - imported by platform, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named termios - imported by tty, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py, getpass
+missing module named grp - imported by shutil, tarfile, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py, netrc, getpass
+missing module named 'org.python' - imported by copy, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, c:\Users\host\source\repos\Origin_for_R3LESE\Origin_for_R3LESE\Origin_for_R3LESE.py
